@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
+testcode.R
+build-package.R

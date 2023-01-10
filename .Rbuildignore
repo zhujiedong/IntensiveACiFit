@@ -1,0 +1,6 @@
+^LICENSE\.md$
+^README\.Rmd$
+build-package\.R
+testcode\.R
+^.*\.Rproj$
+^\.Rproj\.user$
