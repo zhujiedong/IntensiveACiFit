@@ -77,7 +77,6 @@ C4EstimateWithoutCAYinT = function(
     TresponseJ = c(69.25, 188.502, 0.609),
     TresponseRd = c(41.85), Tresponsegm = c(46.533, 366.8, 1.2),
     TresponseVpmax = c(65.69, 147.694, 0.47),
-    TresponseKp2 = c(33.54,27.2),
     Tresponsekr = c(0.003330, 65.2704), Tresponsekf = c(0.038986, 74.8936),
     TresponseKH = c(2.9799)
     ){
