@@ -23,9 +23,9 @@ cite Zhou et al (2019) first:
 You can install the development version of IntensiveACiFit like so:
 
 ``` r
-remotes::install_github()
+remotes::install_github('zhujiedong/IntensiveACiFit')
 # or
-remotes::install_git()
+remotes::install_git('https://gitee.com/zhu_jie_dong/IntensiveACiFit')
 ```
 
 ## Example
