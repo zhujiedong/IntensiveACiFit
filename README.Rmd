@@ -197,7 +197,7 @@ legend("bottomright",leg.text,col=cols,
 
 
 #-------------- C4EstimateWithoutCAYin -------------------#
-nocat_c4estimate_yin = C4EstimateWithoutCAYin(aci, CaBreakL = 10, CaBreakH = 25)
+nocat_c4estimate_yin = C4EstimateWithoutCAYinT(aci, CaBreakL = 10, CaBreakH = 25)
 str(nocat_c4estimate_yin)
 A.obs = aci$A
 Ci.obs = aci$Pci
